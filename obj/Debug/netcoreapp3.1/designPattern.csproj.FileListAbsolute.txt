@@ -1,0 +1,11 @@
+/Users/fanyaoxia/Documents/AspNet/designPattern/bin/Debug/netcoreapp3.1/designPattern
+/Users/fanyaoxia/Documents/AspNet/designPattern/bin/Debug/netcoreapp3.1/designPattern.deps.json
+/Users/fanyaoxia/Documents/AspNet/designPattern/bin/Debug/netcoreapp3.1/designPattern.runtimeconfig.json
+/Users/fanyaoxia/Documents/AspNet/designPattern/bin/Debug/netcoreapp3.1/designPattern.runtimeconfig.dev.json
+/Users/fanyaoxia/Documents/AspNet/designPattern/bin/Debug/netcoreapp3.1/designPattern.dll
+/Users/fanyaoxia/Documents/AspNet/designPattern/bin/Debug/netcoreapp3.1/designPattern.pdb
+/Users/fanyaoxia/Documents/AspNet/designPattern/obj/Debug/netcoreapp3.1/designPattern.csprojAssemblyReference.cache
+/Users/fanyaoxia/Documents/AspNet/designPattern/obj/Debug/netcoreapp3.1/designPattern.AssemblyInfoInputs.cache
+/Users/fanyaoxia/Documents/AspNet/designPattern/obj/Debug/netcoreapp3.1/designPattern.AssemblyInfo.cs
+/Users/fanyaoxia/Documents/AspNet/designPattern/obj/Debug/netcoreapp3.1/designPattern.dll
+/Users/fanyaoxia/Documents/AspNet/designPattern/obj/Debug/netcoreapp3.1/designPattern.pdb
